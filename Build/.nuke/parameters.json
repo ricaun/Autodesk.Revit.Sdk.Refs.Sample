@@ -1,0 +1,4 @@
+{
+  "$schema": "./build.schema.json",
+  "Solution": "../Autodesk.Revit.Sdk.Refs.Sample.sln"
+}

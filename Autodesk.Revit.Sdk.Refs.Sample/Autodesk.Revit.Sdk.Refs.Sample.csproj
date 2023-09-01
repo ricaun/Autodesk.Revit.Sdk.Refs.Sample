@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!--
+    <TargetFramework>net46</TargetFramework>
+    -->
+    <ProductName>Autodesk.Revit.Sdk.Refs.Sample</ProductName>
+    <IsPackable>false</IsPackable>
+    <Configurations>Release;Debug 2021;Debug 2019;Debug 2018;Debug 2020;Debug 2022;Debug 2023;Debug 2024</Configurations>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Autodesk.Revit.Sdk.Refs" Version="1.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <!--
+    <PackageReference Include="Revit_All_Main_Versions_API_x64" Version="$(RevitVersion).*" IncludeAssets="build; compile" PrivateAssets="All" />
+    -->
+  </ItemGroup>
+
+</Project>

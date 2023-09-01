@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autodesk.Revit.Sdk.Refs.Sample", "Autodesk.Revit.Sdk.Refs.Sample\Autodesk.Revit.Sdk.Refs.Sample.csproj", "{427FE183-33ED-4D71-9FBB-E3C597F2A877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug 2018|Any CPU = Debug 2018|Any CPU
+		Debug 2019|Any CPU = Debug 2019|Any CPU
+		Debug 2020|Any CPU = Debug 2020|Any CPU
+		Debug 2021|Any CPU = Debug 2021|Any CPU
+		Debug 2022|Any CPU = Debug 2022|Any CPU
+		Debug 2023|Any CPU = Debug 2023|Any CPU
+		Debug 2024|Any CPU = Debug 2024|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2018|Any CPU.ActiveCfg = Debug 2018|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2018|Any CPU.Build.0 = Debug 2018|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2019|Any CPU.ActiveCfg = Debug 2019|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2019|Any CPU.Build.0 = Debug 2019|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2020|Any CPU.ActiveCfg = Debug 2020|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2020|Any CPU.Build.0 = Debug 2020|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2021|Any CPU.ActiveCfg = Debug 2021|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2021|Any CPU.Build.0 = Debug 2021|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2022|Any CPU.ActiveCfg = Debug 2022|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2022|Any CPU.Build.0 = Debug 2022|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2023|Any CPU.ActiveCfg = Debug 2023|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2023|Any CPU.Build.0 = Debug 2023|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2024|Any CPU.ActiveCfg = Debug 2024|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Debug 2024|Any CPU.Build.0 = Debug 2024|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Release|Any CPU.ActiveCfg = Debug 2021|Any CPU
+		{427FE183-33ED-4D71-9FBB-E3C597F2A877}.Release|Any CPU.Build.0 = Debug 2021|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5448FAF-A288-470C-8F51-6C831B4B8F46}
+	EndGlobalSection
+EndGlobal
